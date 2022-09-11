@@ -6,6 +6,8 @@ npm install
 # Run 
 npm start
 
+http://localhost:5600
+
 Uploaded files is located in ./**uploads** folder 
 
 ![image](https://user-images.githubusercontent.com/67497021/189539257-ff581eed-8ca7-4958-8b89-6297fcad666b.png)
