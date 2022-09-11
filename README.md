@@ -1,9 +1,9 @@
-# file_upload_apk
+# File_Upload_Web_App
 
 # Install Packages
 npm install
 
 # Run 
-npm run start
+npm start
 
 Uploaded files is located in **uploads** folder 
